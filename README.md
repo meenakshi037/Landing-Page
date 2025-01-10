@@ -1,1 +1,1 @@
-# Landing-Page
+A modern and responsive Landing Page built using HTML and CSS. This project showcases foundational web development skills, including layout design, section division, headers, footers, and creative styling. It features a clean and professional design, optimized for both desktop and mobile devices. Perfect for demonstrating core frontend skills and creativity in web design.
